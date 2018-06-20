@@ -15,7 +15,7 @@ A curated directory of awesome things related to Apache Beam. Inspired by [Aweso
     - [Community](#community)
     - [Books](#books)
     - [Papers](#papers)
-    - [Blogs](#blogs)
+    - [Blogs and Blog Posts](#blogs-and-blog-posts)
     - [Talks](#talks)
 
 # Packages
@@ -58,9 +58,10 @@ Various resources, such as books, websites and articles.
 
 - [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](http://people.csail.mit.edu/matei/courses/2015/6.S897/readings/google-dataflow.pdf) - Paper introducing the Dataflow model, which was the predecesor to Beam. (2015)
 
-## Blogs
+## Blogs and Blog Posts
 
 - [Official Beam Blog](http://beam.apache.org/blog/)
+- [Python Development Environments for Beam on GCP](https://medium.com/google-cloud/python-development-environments-for-apache-beam-on-google-cloud-platform-b6f276b344df) - How to set up a development environment for Python Dataflow jobs.
 
 ## Talks
 
