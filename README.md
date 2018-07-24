@@ -52,7 +52,7 @@ Various resources, such as books, websites and articles.
 
 ## Books
 
-- (PENDING)
+- [Streaming Systems: The What, Where, When and How of Large Scale Data Processing](http://streamingbook.net/).
 
 ## Papers
 
