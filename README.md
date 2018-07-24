@@ -66,3 +66,4 @@ Various resources, such as books, websites and articles.
 ## Talks
 
 - Large Scale Landuse Classification of Satellite Imagery - Suneel Marthi [[slides](https://smarthi.github.io/BBuzz18-Satellite-image-classification-for-landuse/)] [[code](https://github.com/smarthi/satellite-images)] - Excellent talk using Beam's Python SDK to run machine learning over a dataset of images.
+- Beam me up, Samza! - The Beam runner for Samza - Xinyu Liu [[slides](https://www.slideshare.net/XinyuLiu11/beam-me-up-samza)].
