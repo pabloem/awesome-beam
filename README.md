@@ -42,7 +42,7 @@ Various resources, such as books, websites and articles.
  - [Java SDK](https://beam.apache.org/documentation/sdks/java/)
  - [Python SDK](https://beam.apache.org/documentation/sdks/python/)
  - [Go SDK](https://beam.apache.org/documentation/sdks/go/)
-- [Beam Wiki]() (PENDING)
+- [Beam Wiki](https://cwiki.apache.org/confluence/display/BEAM)
 - Beam Quickstarts [Java](https://beam.apache.org/get-started/quickstart-java/), [Python](https://beam.apache.org/get-started/quickstart-py/), [Go](https://beam.apache.org/get-started/quickstart-go/).
 
 ## Community
