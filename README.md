@@ -68,3 +68,4 @@ Various resources, such as books, websites and articles.
 
 - Large Scale Landuse Classification of Satellite Imagery - Suneel Marthi [[slides](https://smarthi.github.io/BBuzz18-Satellite-image-classification-for-landuse/)] [[code](https://github.com/smarthi/satellite-images)] - Excellent talk using Beam's Python SDK to run machine learning over a dataset of images.
 - Beam me up, Samza! - The Beam runner for Samza - Xinyu Liu [[slides](https://www.slideshare.net/XinyuLiu11/beam-me-up-samza)].
+- Python Streaming Pipelines with Beam on Flink - Aljoscha Krettek, Thomas Weise [[slides](https://docs.google.com/presentation/d/1RUq9dFgu21DhuxVkLu1AewJTHAxMhO1EeBeWFXMAKKg/edit#slide=id.g119cd57211_0_16)]. - A talk about how Beam enables Python pipelines to run on top of Flink.
