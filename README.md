@@ -36,6 +36,8 @@ A curated directory of awesome things related to Apache Beam. Inspired by [Aweso
 # Resources
 Various resources, such as books, websites and articles.
 
+- [Error Handling Elements in Apache Beam Pipelines](https://medium.com/@vallerylancey/error-handling-elements-in-apache-beam-pipelines-fffdea91af2a). A blog post detailing how to handle when individual elements have errors in their processing downstream.
+
 ## Official Resources
 
 - [Beam Documentation](https://beam.apache.org/documentation/)
