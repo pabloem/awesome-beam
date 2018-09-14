@@ -6,6 +6,7 @@
 A curated directory of awesome things related to Apache Beam. Inspired by [Awesome Flink](https://github.com/wuchong/awesome-flink) and [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop).
 
 - [Packages](#packages)
+  - [Beam Wrappers](#beam-wrappers)
   - [Transforms](#transforms)
   - [Notebooks](#notebooks)
   - [Machine Learning](#machine-learning)
@@ -19,6 +20,9 @@ A curated directory of awesome things related to Apache Beam. Inspired by [Aweso
     - [Talks](#talks)
 
 # Packages
+
+## Beam Wrappers
+- [Apache Beam in Kotlin to reduce boilerplate](https://blog.papercut.com/apache-beam-in-kotlin-to-reduce-the-boilerplate-code/). Using Kotlin's special features to make Beam Java SDK less verbose!
 
 ## Transforms
 - (Pending)
