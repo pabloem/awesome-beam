@@ -72,6 +72,7 @@ Various resources, such as books, websites and articles.
 
 ## Talks
 
+- Robust, performant and modular APIs for  data ingestion with Apache Beam - Eugene Kirpichov, Ismael Mejia [[slides](https://docs.google.com/presentation/d/1Ei4T39zS2rNDPjUG-vlEqaqjwG9kMbq_b3S7EsRGj04/edit#slide=id.g41f7bcddd4_0_6)] - Important talk about IO, and what we think is the future of IO for Big Data systems.
 - Large Scale Landuse Classification of Satellite Imagery - Suneel Marthi [[slides](https://smarthi.github.io/BBuzz18-Satellite-image-classification-for-landuse/)] [[code](https://github.com/smarthi/satellite-images)] - Excellent talk using Beam's Python SDK to run machine learning over a dataset of images.
 - Beam me up, Samza! - The Beam runner for Samza - Xinyu Liu [[slides](https://www.slideshare.net/XinyuLiu11/beam-me-up-samza)].
 - Python Streaming Pipelines with Beam on Flink - Aljoscha Krettek, Thomas Weise [[slides](https://docs.google.com/presentation/d/1RUq9dFgu21DhuxVkLu1AewJTHAxMhO1EeBeWFXMAKKg/edit#slide=id.g119cd57211_0_16)]. - A talk about how Beam enables Python pipelines to run on top of Flink.
