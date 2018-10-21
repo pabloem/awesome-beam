@@ -23,6 +23,7 @@ A curated directory of awesome things related to Apache Beam. Inspired by [Aweso
 
 ## Beam Wrappers
 - [Apache Beam in Kotlin to reduce boilerplate](https://blog.papercut.com/apache-beam-in-kotlin-to-reduce-the-boilerplate-code/). Using Kotlin's special features to make Beam Java SDK less verbose!
+- [Scio - Scala wrapper for Apache Beam](https://github.com/spotify/scio) Wrap Beam functionality in a simple Scala API.
 
 ## Transforms
 - (Pending)
