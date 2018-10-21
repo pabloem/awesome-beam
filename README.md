@@ -69,7 +69,7 @@ Various resources, such as books, websites and articles.
 - [Official Beam Blog](http://beam.apache.org/blog/)
 - [Python Development Environments for Beam on GCP](https://medium.com/google-cloud/python-development-environments-for-apache-beam-on-google-cloud-platform-b6f276b344df) - How to set up a development environment for Python Dataflow jobs.
 - [Java Development Environments for Beam on GCP](https://medium.com/google-cloud/setting-up-a-java-development-environment-for-apache-beam-on-google-cloud-platform-ec0c6c9fbb39) - How to set up a development environment for Java Dataflow / Beam jobs.
-
+- [Coding Apache Beam in your Web Browser and Running it in Cloud Dataflow](https://medium.com/google-cloud/coding-apache-beam-in-your-web-browser-and-running-it-in-cloud-dataflow-c41c275d42c8) - How to create and run a Beam Pipeline on Dataflow using Code Editor.
 ## Talks
 
 - Robust, performant and modular APIs for  data ingestion with Apache Beam - Eugene Kirpichov, Ismael Mejia [[slides](https://docs.google.com/presentation/d/1Ei4T39zS2rNDPjUG-vlEqaqjwG9kMbq_b3S7EsRGj04/edit#slide=id.g41f7bcddd4_0_6)] - Important talk about IO, and what we think is the future of IO for Big Data systems.
