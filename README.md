@@ -73,6 +73,7 @@ Various resources, such as books, websites and articles.
 - [Coding Apache Beam in your Web Browser and Running it in Cloud Dataflow](https://medium.com/google-cloud/coding-apache-beam-in-your-web-browser-and-running-it-in-cloud-dataflow-c41c275d42c8) - How to create and run a Beam Pipeline on Dataflow using Code Editor.
 ## Talks
 
+- So you want to write a Beam SDK? Talk by Robert Bradshaw about the pieces of an SDK and the runner API [[slides](https://docs.google.com/presentation/d/1Cso0XP9dmj77OD9Bd53C1M3W1sPJF0ZnA20gzb2BPhE/edit#slide=id.p)]
 - Robust, performant and modular APIs for  data ingestion with Apache Beam - Eugene Kirpichov, Ismael Mejia [[slides](https://docs.google.com/presentation/d/1Ei4T39zS2rNDPjUG-vlEqaqjwG9kMbq_b3S7EsRGj04/edit#slide=id.g41f7bcddd4_0_6)] - Important talk about IO, and what we think is the future of IO for Big Data systems.
 - SplittableDoFn - A Transform Developer's perspective. Alex Van Boxel. [[slides](https://docs.google.com/presentation/d/1dSc6oKh5pZItQPB_QiUyEoLT2TebMnj-pmdGipkVFPk/edit#slide=id.g3f64cc4601_2_46)].
 - Large Scale Landuse Classification of Satellite Imagery - Suneel Marthi [[slides](https://smarthi.github.io/BBuzz18-Satellite-image-classification-for-landuse/)] [[code](https://github.com/smarthi/satellite-images)] - Excellent talk using Beam's Python SDK to run machine learning over a dataset of images.
