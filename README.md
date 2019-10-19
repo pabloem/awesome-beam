@@ -71,6 +71,7 @@ Various resources, such as books, websites and articles.
 - [Python Development Environments for Beam on GCP](https://medium.com/google-cloud/python-development-environments-for-apache-beam-on-google-cloud-platform-b6f276b344df) - How to set up a development environment for Python Dataflow jobs.
 - [Java Development Environments for Beam on GCP](https://medium.com/google-cloud/setting-up-a-java-development-environment-for-apache-beam-on-google-cloud-platform-ec0c6c9fbb39) - How to set up a development environment for Java Dataflow / Beam jobs.
 - [Coding Apache Beam in your Web Browser and Running it in Cloud Dataflow](https://medium.com/google-cloud/coding-apache-beam-in-your-web-browser-and-running-it-in-cloud-dataflow-c41c275d42c8) - How to create and run a Beam Pipeline on Dataflow using Code Editor.
+- [Realtime Data Processing with Apache Beam at Dailymotion](https://medium.com/dailymotion/realtime-data-processing-with-apache-beam-and-google-dataflow-at-dailymotion-7d1b994dc816)
 ## Talks
 
 - So you want to write a Beam SDK? Talk by Robert Bradshaw about the pieces of an SDK and the runner API [[slides](https://docs.google.com/presentation/d/1Cso0XP9dmj77OD9Bd53C1M3W1sPJF0ZnA20gzb2BPhE/edit#slide=id.p)]
