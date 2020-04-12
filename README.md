@@ -25,6 +25,7 @@ A curated directory of awesome things related to Apache Beam. Inspired by [Aweso
 
 - [Apache Beam in Kotlin to reduce boilerplate](https://blog.papercut.com/apache-beam-in-kotlin-to-reduce-the-boilerplate-code/). Using Kotlin's special features to make Beam Java SDK less verbose!
 - [Scio - Scala wrapper for Apache Beam](https://github.com/spotify/scio) Wrap Beam functionality in a simple Scala API.
+- [thruber - Clojure wrapper for Apache Beam](https://github.com/atdixon/thurber) Bring Clojure's powerful, expressive toolkit (destructuring, immutability, REPL, async tools, etc etc) to Apache Beam.
 
 ## Transforms
 
