@@ -78,6 +78,8 @@ Various resources, such as books, websites and articles.
 
 ## Blogs and Blog Posts
 
+- [Profiling Apache Beam Python Pipelines](https://medium.com/google-cloud/profiling-apache-beam-python-pipelines-d3cac8644fa4) - Medium
+- [Profiling Dataflow Pipelines (Java)](https://medium.com/google-cloud/profiling-dataflow-pipelines-ddbbef07761d) - Medium
 - [Official Beam Blog](http://beam.apache.org/blog/)
 - [Python Development Environments for Beam on GCP](https://medium.com/google-cloud/python-development-environments-for-apache-beam-on-google-cloud-platform-b6f276b344df) - How to set up a development environment for Python Dataflow jobs.
 - [Java Development Environments for Beam on GCP](https://medium.com/google-cloud/setting-up-a-java-development-environment-for-apache-beam-on-google-cloud-platform-ec0c6c9fbb39) - How to set up a development environment for Java Dataflow / Beam jobs.
